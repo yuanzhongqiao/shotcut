@@ -1,83 +1,58 @@
-[![build-shotcut-linux](https://github.com/mltframework/shotcut/workflows/build-shotcut-linux/badge.svg)](https://github.com/mltframework/shotcut/actions?query=workflow%3Abuild-shotcut-linux+is%3Acompleted+branch%3Amaster)
-[![build-shotcut-macos](https://github.com/mltframework/shotcut/workflows/build-shotcut-macos/badge.svg)](https://github.com/mltframework/shotcut/actions?query=workflow%3Abuild-shotcut-macos+is%3Acompleted+branch%3Amaster)
-[![build-shotcut-windows](https://github.com/mltframework/shotcut/workflows/build-shotcut-windows/badge.svg)](https://github.com/mltframework/shotcut/actions?query=workflow%3Abuild-shotcut-windows+is%3Acompleted+branch%3Amaster)
-
-
-# Shotcut - a free, open source, cross-platform **video editor**
-
-<div align="center">
-
-<img src="https://www.shotcut.org/assets/img/screenshots/Shotcut-18.11.18.png" alt="screenshot" />
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://github.com/mltframework/shotcut/actions?query=workflow%3Abuild-shotcut-linux+is%3Acompleted+branch%3Amaster"><img src="https://github.com/mltframework/shotcut/workflows/build-shotcut-linux/badge.svg" alt="构建 Shotcut-Linux" style="max-width: 100%;"></a>
+<a href="https://github.com/mltframework/shotcut/actions?query=workflow%3Abuild-shotcut-macos+is%3Acompleted+branch%3Amaster"><img src="https://github.com/mltframework/shotcut/workflows/build-shotcut-macos/badge.svg" alt="构建 Shotcut-macos" style="max-width: 100%;"></a>
+<a href="https://github.com/mltframework/shotcut/actions?query=workflow%3Abuild-shotcut-windows+is%3Acompleted+branch%3Amaster"><img src="https://github.com/mltframework/shotcut/workflows/build-shotcut-windows/badge.svg" alt="构建快照窗口" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Shotcut - 免费、开源、跨平台的</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频编辑器</font></font></strong></h1><a id="user-content-shotcut---a-free-open-source-cross-platform-video-editor" class="anchor" aria-label="永久链接：Shotcut - 一款免费、开源、跨平台的视频编辑器" href="#shotcut---a-free-open-source-cross-platform-video-editor"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e5e15f9f76c6b18e8f1fd0db8d6bb646b07ecc2cc7a25622dc7885c7542f26d4/68747470733a2f2f7777772e73686f746375742e6f72672f6173736574732f696d672f73637265656e73686f74732f53686f746375742d31382e31312e31382e706e67"><img src="https://camo.githubusercontent.com/e5e15f9f76c6b18e8f1fd0db8d6bb646b07ecc2cc7a25622dc7885c7542f26d4/68747470733a2f2f7777772e73686f746375742e6f72672f6173736574732f696d672f73637265656e73686f74732f53686f746375742d31382e31312e31382e706e67" alt="截屏" data-canonical-src="https://www.shotcut.org/assets/img/screenshots/Shotcut-18.11.18.png" style="max-width: 100%;"></a>
 </div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能：</font></font><a href="https://www.shotcut.org/features/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.shotcut.org/features/</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">路线图：</font></font><a href="https://www.shotcut.org/roadmap/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.shotcut.org/roadmap/</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2><a id="user-content-install" class="anchor" aria-label="永久链接：安装" href="#install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二进制文件会定期构建，可从</font></font><a href="https://www.shotcut.org/download/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://www.shotcut.org/download/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献者</font></font></h2><a id="user-content-contributors" class="anchor" aria-label="永久链接：贡献者" href="#contributors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Dan Dennedy &lt; </font></font><a href="http://www.dennedy.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://www.dennedy.org</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> &gt; ：主要作者</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Brian Matherly &lt; </font></font><a href="mailto:code@brianmatherly.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">code@brianmatherly.com</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> &gt;：贡献者</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">依赖关系</font></font></h2><a id="user-content-dependencies" class="anchor" aria-label="永久链接：依赖关系" href="#dependencies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Shotcut 的直接（链接或硬运行时）依赖项是：</font></font></p>
+<ul dir="auto">
+<li><a href="https://www.mltframework.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MLT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：多媒体创作框架</font></font></li>
+<li><a href="https://www.qt.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Qt 6（最低 6.4）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：应用程序和 UI 框架</font></font></li>
+<li><a href="https://fftw.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FFTW</font></font></a></li>
+<li><a href="https://www.ffmpeg.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FFmpeg</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：多媒体格式和编解码器库</font></font></li>
+<li><a href="https://www.dyne.org/software/frei0r/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Frei0r</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：视频插件</font></font></li>
+<li><a href="http://www.libsdl.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SDL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：跨平台音频播放</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://shotcut.org/credits/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://shotcut.org/credits/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取包括间接和捆绑依赖项在内的更完整列表。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPLv3。请参阅</font></font><a href="/mltframework/shotcut/blob/master/COPYING"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复制</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如何建造</font></font></h2><a id="user-content-how-to-build" class="anchor" aria-label="永久链接：如何构建" href="#how-to-build"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">警告</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：构建 Shotcut 只应保留给 Beta 测试人员或知道自己在做什么的贡献者。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Qt创建者</font></font></h3><a id="user-content-qt-creator" class="anchor" aria-label="永久链接：Qt Creator" href="#qt-creator"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建和尝试 Shotcut 开发版本的最快方法是通过</font></font><a href="https://www.qt.io/download#qt-creator" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Qt Creator</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从命令行</font></font></h3><a id="user-content-from-command-line" class="anchor" aria-label="永久链接：从命令行" href="#from-command-line"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首先，检查依赖关系是否满足，并且各种路径是否正确设置以查找不同的库和包含文件（Qt、MLT、frei0r 等）。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></h4><a id="user-content-configure" class="anchor" aria-label="永久链接：配置" href="#configure"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在进行构建的新目录中（与源分开）：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>cmake -DCMAKE_INSTALL_PREFIX=/usr/local/ /path/to/shotcut
+</code></pre><div class="zeroclipboard-container">
 
-- Features: https://www.shotcut.org/features/
-- Roadmap: https://www.shotcut.org/roadmap/
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><code>-GNinja</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们建议通过添加到上述命令行来</font><font style="vertical-align: inherit;">使用 Ninja 生成器。</font></font></p>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建造</font></font></h4><a id="user-content-build" class="anchor" aria-label="永久链接：构建" href="#build"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>cmake --build .
+</code></pre><div class="zeroclipboard-container">
 
-## Install
-
-Binaries are regularly built and are available at https://www.shotcut.org/download/.
-
-## Contributors
-
-- Dan Dennedy <<http://www.dennedy.org>> : main author
-- Brian Matherly <<code@brianmatherly.com>> : contributor
-
-## Dependencies
-
-Shotcut's direct (linked or hard runtime) dependencies are:
-
-- [MLT](https://www.mltframework.org/): multimedia authoring framework
-- [Qt 6 (6.4 mininum)](https://www.qt.io/): application and UI framework
-- [FFTW](https://fftw.org/)
-- [FFmpeg](https://www.ffmpeg.org/): multimedia format and codec libraries
-- [Frei0r](https://www.dyne.org/software/frei0r/): video plugins
-- [SDL](http://www.libsdl.org/): cross-platform audio playback
-
-See https://shotcut.org/credits/ for a more complete list including indirect
-and bundled dependencies.
-
-## License
-
-GPLv3. See [COPYING](COPYING).
-
-## How to build
-
-**Warning**: building Shotcut should only be reserved to beta testers or contributors who know what they are doing.
-
-### Qt Creator
-
-The fastest way to build and try Shotcut development version is through [Qt Creator](https://www.qt.io/download#qt-creator).
-
-### From command line
-
-First, check dependencies are satisfied and various paths are correctly set to find different libraries and include files (Qt, MLT, frei0r and so forth).
-
-#### Configure
-
-In a new directory in which to make the build (separate from the source):
-
-```
-cmake -DCMAKE_INSTALL_PREFIX=/usr/local/ /path/to/shotcut
-```
-
-We recommend using the Ninja generator by adding `-GNinja` to the above command line.
-
-#### Build
-
-```
-cmake --build .
-```
-
-#### Install
-
-If you do not install, Shotcut may fail when you run it because it cannot locate its QML
-files that it reads at run-time.
-
-```
-cmake --install .
-```
-
-## Translation
-
-If you want to translate Shotcut to another language, please use [Transifex](https://www.transifex.com/ddennedy/shotcut/).
+  </div></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h4><a id="user-content-install-1" class="anchor" aria-label="永久链接：安装" href="#install-1"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果不安装，Shotcut 在运行时可能会失败，因为它无法找到在运行时读取的 QML 文件。</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>cmake --install .
+</code></pre><div class="zeroclipboard-container">
+ 
+  </div></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译</font></font></h2><a id="user-content-translation" class="anchor" aria-label="固定链接：翻译" href="#translation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想将 Shotcut 翻译成其他语言，请使用</font></font><a href="https://www.transifex.com/ddennedy/shotcut/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Transifex</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+</article></div>
